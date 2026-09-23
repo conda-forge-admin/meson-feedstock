@@ -200,6 +200,3 @@ Feedstock Maintainers
 * [@tschoonj](https://github.com/tschoonj/)
 * [@wolfv](https://github.com/wolfv/)
 
-
-<!-- dummy commit to enable rerendering -->
-
